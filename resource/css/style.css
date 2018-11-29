@@ -3,12 +3,12 @@ body{
   text-align: center;
 }
 
-header{
+h1{
   font-family: verdana;
-  font-weight: normal;
   font-size: 50px;
+  color: white;
+  font-weight: normal;
   text-align: center;
-  color:white;
 }
 
 h2{
