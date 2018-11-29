@@ -1,21 +1,18 @@
 body{
   background-color: black;
   text-align: center;
+  font-family: "Verdana", sans-serif;
+  color: white;
 }
 
 h1{
-  font-family: verdana;
   font-size: 50px;
-  color: white;
   font-weight: normal;
-  text-align: center;
 }
 
 h2{
-  font-family: verdana;
   font-weight: 300;
   font-size: 42px;
-  color:white;
 }
 
 .download{
@@ -23,14 +20,14 @@ h2{
   color: aquamarine;
 }
 
-.paragraph2{
+p{
   font-family: verdana;
   font-size: : 21px;
   color: gray;
 
 }
 
-footer{
+.footer{
   color: grey;
   text-align: right;
 }
